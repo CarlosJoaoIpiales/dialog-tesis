@@ -1,0 +1,113 @@
+% Guía de aplicación de cambios — Sesión 2026-07-13
+% Este archivo resume SOLO los cambios realizados hoy y dónde insertarlos
+% en el documento original (main.tex). Copiar/pegar en las ubicaciones indicadas.
+
+\section*{Guía de aplicación de cambios (13-07-2026)}
+
+\subsection*{1) Arquitectura general del sistema}
+
+\textbf{Ubicación:} En main.tex, sección \\section{Arquitectura general del sistema} (label: sec:arquitectura-general), inmediatamente \\textbf{después} de la Figura ``Diagrama de componentes'' (label: fig:componentes) y su entorno \verb|\end{figure}|.
+
+\textbf{Insertar el siguiente bloque (tres párrafos de justificación):}
+
+\begin{verbatim}
+\paragraph{Justificación de la descomposición en ocho servicios.} ...
+
+\paragraph{¿Por qué esta separación y no un monolito?} ...
+
+\paragraph{Riesgos mitigados con la descomposición.} ... La Tabla~\ref{tab:servicios-razones} sintetiza ...
+\end{verbatim}
+
+\textbf{A continuación, insertar la tabla de resumen (antes del ``Diagrama de clases'')}: 
+
+\begin{verbatim}
+\begin{table}[H]
+\caption{Servicios, responsabilidades y razones de separación}\label{tab:servicios-razones}
+\centering
+\begin{tabularx}{\textwidth}{l l X X}
+\toprule
+\textbf{Servicio} & \textbf{Responsabilidad} & \textbf{Razón de separación} & \textbf{Riesgo mitigado} \\
+\midrule
+Gateway & Enrutamiento a microservicios & Punto de entrada ligero sin reglas de negocio & Evita que validaciones/negocio bloqueen el tráfico global \\
+Company & Gestión de empresas & Ciclo de cambio bajo, CRUD puro & Cambios administrativos no afectan ingesta ni consumo \\
+Meters & Gestión de medidores & Catálogo con validaciones específicas por modelo & Evita acoplar validaciones de hardware a identidad/consumo \\
+User & Identidades de usuario & Superficie sensible separada & Reduce el blast radius ante fallos de negocio \\
+UserCompany & Asociación usuario–empresa & Regla de acceso transversal & Cambios de acceso no bloquean ingesta ni catálogos \\
+Messages & Ingesta y \textit{logging} de tramas & Perfil de I/O alto, escalado horizontal independiente & Picos de uplinks no degradan servicios CRUD \\
+Consumption & Agregación y consulta de consumo & Pre–cálculo y consultas intensivas distintas a CRUD & Aisla costos de CPU/IO de analítica del resto \\
+LoRaWAN Adapter & Decodificación + integración Loriot & Evolución de decodificadores por fabricante & Cambios en protocolo/decoder no fuerzan redeploy global \\
+\bottomrule
+\end{tabularx}
+\vspace{2pt}
+\footnotesize Nota: PostgreSQL es el almacén de datos compartido; no se considera un microservicio de negocio.
+\end{table}
+\end{verbatim}
+
+\subsection*{2) Pruebas y validación — Pruebas de seguridad}
+
+\textbf{Ubicación:} En main.tex, sección \\section{Pruebas y validación} (label: sec:pruebas), insertar la subsección \\textbf{después} de la Figura ``Tiempo de respuesta promedio de endpoints REST vs. umbral'' (label: fig:barras-endpoints) y su \verb|\end{figure}|, \\textbf{antes} de ``Pruebas de usabilidad''.
+
+\textbf{Insertar:}
+
+\begin{verbatim}
+\subsection{Pruebas de seguridad}\label{subsec:pruebas-seguridad}
+
+La validación de seguridad combinó análisis estático (SAST) y dinámico (DAST)...
+
+\begin{table}[H]
+\caption{Resumen de pruebas de seguridad (SAST/DAST)}\label{tab:seguridad}
+... (cuerpo de la tabla) ...
+\end{table}
+
+\paragraph{Medidas aplicadas.} ...
+\paragraph{Plan de cierre (post-entrega).} ...
+\end{verbatim}
+
+\subsection*{3) ISO/IEC 25010 — Metodología y tabla con evidencias}
+
+\textbf{Ubicación:} En main.tex, sección \\section{Evaluación de calidad del software según ISO/IEC 25010} (label: sec:iso25010), \\textbf{insertar el párrafo} ``Metodología y trazabilidad'' inmediatamente después del primer párrafo de introducción.
+
+\textbf{Reemplazar} el encabezado de la tabla por:
+
+\begin{verbatim}
+\begin{longtable}{p{3.8cm}p{4.0cm}p{4.2cm}c}
+\caption{Evaluación del sistema según ISO/IEC 25010}\label{tab:iso25010} \\
+\toprule
+\textbf{Característica} & \textbf{Subcaracterística / Indicador} & \textbf{Evidencia experimental} & \textbf{Resultado} \\
+\midrule
+\end{verbatim}
+
+\textbf{Actualizar las filas} con referencias a evidencia (ejemplos):
+
+\begin{verbatim}
+Adecuación funcional & ... & 17/17 PASS — Tabla~\ref{tab:pruebas} & Satisface \\
+Eficiencia de desempeño & ... & 8/11 ≤ 500 ms; 3 sin paginación — Tabla~\ref{tab:rendimiento}, Fig.~\ref{fig:barras-endpoints} & Parcial \\
+Compatibilidad & ... & 9/9 Swagger/OpenAPI (SwaggerConfig) & Satisface \\
+Usabilidad & ... & 9/10 heurísticas — Tabla~\ref{tab:nielsen} & Satisface \\
+Fiabilidad & ... & Reconexión TLS ≤ 10 s; consistencia transaccional — \ref{subsec:pruebas-integracion} & Satisface \\
+Seguridad & ... & ZAP High=0; Semgrep críticos=0 — \ref{subsec:pruebas-seguridad} & Satisface \\
+Mantenibilidad & ... & Microservicios + SAST sin críticos; métricas N/R & Parcial \\
+Portabilidad & ... & Docker multi-stage, USER no-root, HEALTHCHECK — Fig.~\ref{fig:ss-railway} & Satisface \\
+\end{verbatim}
+
+\subsection*{4) Recomendaciones — Líneas de investigación futura}
+
+\textbf{Ubicación:} En main.tex, capítulo ``Conclusiones y recomendaciones'' → sección \\section{Recomendaciones} (label: recomendaciones). \\textbf{Insertar al final} de la sección una subsección sin numeración titulada ``Líneas de investigación futura'' con viñetas.
+
+\textbf{Insertar:}
+
+\begin{verbatim}
+\subsection*{Líneas de investigación futura}
+\begin{itemize}
+  \item Aprendizaje automático aplicado ... (pipeline ML para series temporales)
+  \item Predicción de fugas y anomalías ... (Isolation Forest / One-Class SVM)
+  \item Predicción de consumo ... (ARIMA/Prophet/LSTM; comparación con baseline)
+  \item Explicabilidad y monitoreo de modelos ... (SHAP, deriva, MLOps mínimo)
+\end{itemize}
+\end{verbatim}
+
+\subsection*{Notas}
+
+1) Mantener las labels de tablas/figuras como aquí indicadas para coherencia con el resto del documento.
+
+2) Si el documento original ya contiene contenidos similares, sustituir únicamente los fragmentos entre \verb|\begin|/\verb|\end| correspondientes.

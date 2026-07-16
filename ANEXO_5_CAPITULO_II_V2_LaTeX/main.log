@@ -1,0 +1,3626 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.5.10)  14 JUL 2026 10:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@chapter=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count280
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count281
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex)
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 4320.
+
+(C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count282
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
+on input line 6.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
+ on input line 6.
+
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count283
+\g__pdfannot_backend_int=\count284
+\g__pdfannot_backend_link_int=\count285
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'TeXGyreTermes(0)' created for font 'TeX
+(fontspec)             Gyre Termes' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/B/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"TeX
+(fontspec)             Gyre
+(fontspec)             Termes/B/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/I/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Termes/I/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/BI/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Termes/BI/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count297
+\Gm@cntv=\count298
+\c@Gm@tempcnt=\count299
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks19
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count300
+\LTcapwidth=\dimen163
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count301
+\LT@rows=\count302
+\c@LT@tables=\count303
+\c@LT@chunks=\count304
+\LT@p@ftn=\toks20
+)
+(C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen164
+\lightrulewidth=\dimen165
+\cmidrulewidth=\dimen166
+\belowrulesep=\dimen167
+\belowbottomsep=\dimen168
+\aboverulesep=\dimen169
+\abovetopsep=\dimen170
+\cmidrulesep=\dimen171
+\cmidrulekern=\dimen172
+\defaultaddspace=\dimen173
+\@cmidla=\count305
+\@cmidlb=\count306
+\@aboverulesep=\dimen174
+\@belowrulesep=\dimen175
+\@thisruleclass=\count307
+\@lastruleclass=\count308
+\@thisrulewidth=\dimen176
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen177
+\ar@mcellbox=\box58
+\extrarowheight=\dimen178
+\NC@list=\toks21
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box59
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen179
+\calc@Bdimen=\dimen180
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count311
+\calc@Cskip=\skip59
+)
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count312
+\float@exts=\toks22
+\float@box=\box60
+\@float@everytoks=\toks23
+\@floatcapt=\box61
+)
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Program Files\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box62
+\UL@hyphenbox=\box63
+\UL@skip=\skip60
+\UL@hook=\toks24
+\UL@height=\dimen181
+\UL@pe=\count313
+\UL@pixel=\dimen182
+\ULC@box=\box64
+Package: ulem 2019/11/18
+\ULdepth=\dimen183
+)
+(C:\Program Files\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+))
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count314
+)
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count315
+)
+(C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen184
+\Hy@linkcounter=\count316
+\Hy@pagecounter=\count317
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count318
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count319
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen185
+
+(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count320
+\Field@Width=\dimen186
+\Fld@charsize=\dimen187
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count321
+\c@Item=\count322
+\c@Hfootnote=\count323
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
+\pdfm@box=\box65
+\c@Hy@AnnotLevel=\count324
+\HyField@AnnotCount=\count325
+\Fld@listcount=\count326
+\c@bookmark@seq@number=\count327
+
+(C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip61
+)
+(C:\Program Files\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/bookmark\bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
+\BKM@id=\count328
+))
+(C:\Program Files\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip62
+\enit@outerparindent=\dimen188
+\enit@toks=\toks25
+\enit@inbox=\box66
+\enit@count@id=\count329
+\enitdp@description=\count330
+)
+(C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip63
+\RaggedLeftLeftskip=\skip64
+\RaggedRightLeftskip=\skip65
+\CenteringRightskip=\skip66
+\RaggedLeftRightskip=\skip67
+\RaggedRightRightskip=\skip68
+\CenteringParfillskip=\skip69
+\RaggedLeftParfillskip=\skip70
+\RaggedRightParfillskip=\skip71
+\JustifyingParfillskip=\skip72
+\CenteringParindent=\skip73
+\RaggedLeftParindent=\skip74
+\RaggedRightParindent=\skip75
+\JustifyingParindent=\skip76
+)
+(C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip77
+\multirow@cntb=\count331
+\multirow@dima=\skip78
+\bigstrutjot=\dimen189
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen190
+\TX@old@table=\dimen191
+\TX@old@col=\dimen192
+\TX@target=\dimen193
+\TX@delta=\dimen194
+\TX@cols=\count332
+\TX@ftn=\toks26
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count333
+\rotFPtop=\skip79
+\rotFPbot=\skip80
+\rot@float@box=\box67
+\rot@mess@toks=\toks27
+)
+(C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+))
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen195
+\pgfutil@tempdimb=\dimen196
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box68
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen197
+\pgf@y=\dimen198
+\pgf@xa=\dimen199
+\pgf@ya=\dimen256
+\pgf@xb=\dimen257
+\pgf@yb=\dimen258
+\pgf@xc=\dimen259
+\pgf@yc=\dimen260
+\pgf@xd=\dimen261
+\pgf@yd=\dimen262
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count334
+\c@pgf@countb=\count335
+\c@pgf@countc=\count336
+\c@pgf@countd=\count337
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count338
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count339
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count340
+\pgfsyssoftpath@bigbuffer@items=\count341
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen263
+\pgfmath@count=\count342
+\pgfmath@box=\box69
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count343
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen264
+\pgf@picmaxx=\dimen265
+\pgf@picminy=\dimen266
+\pgf@picmaxy=\dimen267
+\pgf@pathminx=\dimen268
+\pgf@pathmaxx=\dimen269
+\pgf@pathminy=\dimen270
+\pgf@pathmaxy=\dimen271
+\pgf@xx=\dimen272
+\pgf@xy=\dimen273
+\pgf@yx=\dimen274
+\pgf@yy=\dimen275
+\pgf@zx=\dimen276
+\pgf@zy=\dimen277
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen278
+\pgf@path@lasty=\dimen279
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen280
+\pgf@shorten@start@additional=\dimen281
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box70
+\pgf@hbox=\box71
+\pgf@layerbox@main=\box72
+\pgf@picture@serial@count=\count344
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen282
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen283
+\pgf@pt@y=\dimen284
+\pgf@pt@temp=\dimen285
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen286
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen287
+\pgf@sys@shading@range@num=\count345
+\pgf@shadingcount=\count346
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box73
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box74
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen288
+\pgf@nodesepend=\dimen289
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen290
+\pgffor@skip=\dimen291
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count347
+\pgfplotmarksize=\dimen292
+)
+\tikz@lastx=\dimen293
+\tikz@lasty=\dimen294
+\tikz@lastxsaved=\dimen295
+\tikz@lastysaved=\dimen296
+\tikz@lastmovetox=\dimen297
+\tikz@lastmovetoy=\dimen298
+\tikzleveldistance=\dimen299
+\tikzsiblingdistance=\dimen300
+\tikz@figbox=\box75
+\tikz@figbox@bg=\box76
+\tikz@tempbox=\box77
+\tikz@tempbox@bg=\box78
+\tikztreelevel=\count348
+\tikznumberofchildren=\count349
+\tikznumberofcurrentchild=\count350
+\tikz@fig@count=\count351
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count352
+\pgfmatrixcurrentcolumn=\count353
+\pgf@matrix@numberofcolumns=\count354
+)
+\tikz@expandcount=\count355
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen301
+\c@pgfplots@coordindex=\count356
+\c@pgfplots@scanlineindex=\count357
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_loader.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+re.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+reext.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.
+tex
+\c@pgfplotsarray@tmp=\count358
+)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code
+.tex
+\c@pgfplotstable@counta=\count359
+\t@pgfplotstable@a=\toks47
+)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex
+))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshadi
+ng.code.tex
+\c@pgfplotslibrarysurf@no=\count360
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadin
+g.pgfsys-xetex.def
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadin
+g.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count361
+))))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen302
+\pgfdecoratedremainingdistance=\dimen303
+\pgfdecoratedinputsegmentcompleteddistance=\dimen304
+\pgfdecoratedinputsegmentremainingdistance=\dimen305
+\pgf@decorate@distancetomove=\dimen306
+\pgf@decorate@repeatstate=\count362
+\pgfdecorationsegmentamplitude=\dimen307
+\pgfdecorationsegmentlength=\dimen308
+)
+\tikz@lib@dec@box=\box79
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathmorphing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathmorphing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathreplacing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathreplacing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourl
+ua.code.tex)
+\pgfplots@numplots=\count363
+\pgfplots@xmin@reg=\dimen309
+\pgfplots@xmax@reg=\dimen310
+\pgfplots@ymin@reg=\dimen311
+\pgfplots@ymax@reg=\dimen312
+\pgfplots@zmin@reg=\dimen313
+\pgfplots@zmax@reg=\dimen314
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.polar.co
+de.tex) (C:\Program Files\MiKTeX\tex/latex/pgfgantt\pgfgantt.sty
+Package: pgfgantt 2024/06/19 v5.0a Draw Gantt diagrams with TikZ
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen315
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box80
+\pgf@layerboxsaved@background=\box81
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geom
+etric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfcalendar.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfcalendar.code.tex
+File: pgfcalendar.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfcalendarcurrentjulian=\count364
+\pgf@cal@easter@Y=\count365
+\pgf@cal@easter@G=\count366
+\pgf@cal@easter@C=\count367
+\pgf@cal@easter@X=\count368
+\pgf@cal@easter@Z=\count369
+\pgf@cal@easter@D=\count370
+\pgf@cal@easter@E=\count371
+\pgf@cal@easter@N=\count372
+\pgf@cal@easter@M=\count373
+\pgf@cal@easter@julianday=\count374
+))
+\gtt@currentline=\count375
+\gtt@lasttitleline=\count376
+\gtt@currgrid=\count377
+\gtt@chartwidth=\count378
+\gtt@lasttitleslot=\count379
+\gtt@elementid=\count380
+\gtt@today@slot=\count381
+\gtt@startjulian=\count382
+\gtt@endjulian=\count383
+\gtt@chartid=\count384
+\gtt@vrule@slot=\count385
+\gtt@calendar@slots=\count386
+\gtt@calendar@weeknumber=\count387
+\gtt@calendar@startofweek=\count388
+\gtt@left@slot=\count389
+\gtt@right@slot=\count390
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.mult
+ipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodepartlowerbox=\box82
+\pgfnodeparttwobox=\box83
+\pgfnodepartthreebox=\box84
+\pgfnodepartfourbox=\box85
+\pgfnodeparttwentybox=\box86
+\pgfnodepartnineteenbox=\box87
+\pgfnodeparteighteenbox=\box88
+\pgfnodepartseventeenbox=\box89
+\pgfnodepartsixteenbox=\box90
+\pgfnodepartfifteenbox=\box91
+\pgfnodepartfourteenbox=\box92
+\pgfnodepartthirteenbox=\box93
+\pgfnodeparttwelvebox=\box94
+\pgfnodepartelevenbox=\box95
+\pgfnodeparttenbox=\box96
+\pgfnodepartninebox=\box97
+\pgfnodeparteightbox=\box98
+\pgfnodepartsevenbox=\box99
+\pgfnodepartsixbox=\box100
+\pgfnodepartfivebox=\box101
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.t
+ex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen316
+\pgfarrowlength=\dimen317
+\pgfarrowwidth=\dimen318
+\pgfarrowlinewidth=\dimen319
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rybabel.code.tex
+File: tikzlibrarybabel.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip81
+\f@nch@offset@elh=\skip82
+\f@nch@offset@erh=\skip83
+\f@nch@offset@olh=\skip84
+\f@nch@offset@orh=\skip85
+\f@nch@offset@elf=\skip86
+\f@nch@offset@erf=\skip87
+\f@nch@offset@olf=\skip88
+\f@nch@offset@orf=\skip89
+\f@nch@height=\skip90
+\f@nch@footalignment=\skip91
+\f@nch@widthL=\skip92
+\f@nch@widthC=\skip93
+\f@nch@widthR=\skip94
+\@temptokenb=\toks48
+)
+(main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 11.
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 65.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 65.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 65.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 65.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 65.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 65.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 65.
+LaTeX Font Info:    Redeclaring math accent \check on input line 65.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 65.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 65.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermes(0)/m/n on input line 6
+5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/m/n on input line 
+65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/m/n on 
+input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TeXGyreTermes(0)/m/it on input line
+ 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/b/n on input line 
+65.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/b/n on 
+input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TeXGyreTermes(0)/b/it on input lin
+e 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 65.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 65.
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+File: media/image1.png Graphic file (type bmp)
+<media/image1.png>
+[1
+
+]
+File: media/image2.png Graphic file (type bmp)
+<media/image2.png>
+ [1
+
+]
+File: media/image1.png Graphic file (type bmp)
+<media/image1.png>
+ [2
+
+]
+File: media/image1.png Graphic file (type bmp)
+<media/image1.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 176
+.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 176
+.
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3
+
+]
+File: media/image1.png Graphic file (type bmp)
+<media/image1.png>
+ [4
+
+] [5
+
+
+] [6
+
+
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+[7
+
+
+] [8])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [9] (main.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+ [][] [][]\TU/TeXGyreTermes(0)/m/n/12 Propiedades de configuración por servicio
+ (entorno local, 
+ []
+
+[10
+
+
+])
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+ [11] (main.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [12
+
+
+])
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [13] [14
+
+
+] [15
+
+
+]
+Capítulo 1.
+[16
+
+
+] [17]
+Overfull \hbox (30.863pt too wide) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Observación
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 / Me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 espe-
+ []
+
+
+Overfull \hbox (32.79501pt too wide) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Desagregado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 fabri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 can-
+ []
+
+
+Overfull \hbox (18.27501pt too wide) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 te/modelo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 (Bo-
+ []
+
+
+Overfull \hbox (23.255pt too wide) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 ve/Younio)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 17 (Bove) + 1
+ []
+
+
+Overfull \hbox (5.01501pt too wide) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Younio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 opera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 vía
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 app
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 móvil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Bove
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 sobre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 plata-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 forma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 web;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 You-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 nio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 vía
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 app
+ []
+
+
+Overfull \hbox (8.26701pt too wide) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reporte
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 desde
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 plata-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 forma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 Bove;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 You-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 nio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 sin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 fun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 ción
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 equi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 valen-
+ []
+
+
+Overfull \hbox (20.255pt too wide) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Operación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 diaria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 cen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 trali-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 zada
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 plata-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 forma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 Bove;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 You-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 nio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 app
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 móvil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 (par-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 tici-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 ción
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 mino-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 rita-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 uti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 liza
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 Lo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 riot
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 como
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/it/12 net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/it/12 work
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 (NS),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 sin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 ope-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 inter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 usua-
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 312--312
+[]| \TU/TeXGyreTermes(0)/m/n/12 2 min (Bove) /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]|\TU/TeXGyreTermes(0)/m/n/12 Bove
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 notifi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 rreo;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 You-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 nio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 pone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 esta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\TU/TeXGyreTermes(0)/m/n/12 fun-
+ []
+
+[18]
+Overfull \vbox (1042.36247pt too high) has occurred while \output is active []
+
+
+[19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]|\TU/TeXGyreTermes(0)/b/n/12 Alcance y hallazgos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]||   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Overfull \hbox (141.41434pt too wide) in paragraph at lines 376--376
+|   []
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 376--376
+|   []   |   []   |   []   |   []
+ []
+
+
+Overfull \hbox (13.42233pt too wide) in paragraph at lines 376--376
+[]||   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 376--376
+|   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+|   []   |   []
+ []
+
+
+Overfull \hbox (61.47034pt too wide) in paragraph at lines 376--376
+|   []| 
+ []
+
+[21]
+Overfull \vbox (160.63391pt too high) has occurred while \output is active []
+
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+ []|   []   |   []   |   []   |   [][] |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+|   []   |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 383--384
+|   []   |   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+[23] [24]
+Overfull \hbox (13.715pt too wide) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Observación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 / Meta
+ []
+
+
+Overfull \hbox (3.119pt too wide) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reportado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 para
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 sistemas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 en agua;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 ver
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 (Algham-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 di et al.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 2022;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Requiere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 medición
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 local
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 (línea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Requiere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 medición
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 local
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 (línea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Depende
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 de con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 tratos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Depende
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 de tarifa-
+ []
+
+
+Overfull \hbox (17.783pt too wide) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 ción/pérdidas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Depende
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 de di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 mensio-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 namiento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Requiere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 esti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 mación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 finan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 ciera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 específi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/TeXGyreTermes(0)/m/n/12 Requiere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 escenario
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\TU/TeXGyreTermes(0)/m/n/12 económi-
+ []
+
+[25]
+Overfull \vbox (196.62279pt too high) has occurred while \output is active []
+
+
+[26] [27] [28]
+Capítulo 2.
+[29
+
+] [30] [31]
+Overfull \hbox (6.81726pt too wide) in paragraph at lines 595--595
+ []|\TU/TeXGyreTermes(0)/b/n/10 Decodif. 
+ []
+
+
+Overfull \hbox (0.82726pt too wide) in paragraph at lines 595--596
+ []|\TU/TeXGyreTermes(0)/b/n/10 Micro- 
+ []
+
+
+Overfull \hbox (8.20726pt too wide) in paragraph at lines 595--596
+ \TU/TeXGyreTermes(0)/b/n/10 servicios| 
+ []
+
+
+Overfull \hbox (6.81726pt too wide) in paragraph at lines 600--600
+ []|\TU/TeXGyreTermes(0)/b/n/10 Decodif. 
+ []
+
+
+Overfull \hbox (0.82726pt too wide) in paragraph at lines 600--601
+ []|\TU/TeXGyreTermes(0)/b/n/10 Micro- 
+ []
+
+
+Overfull \hbox (8.20726pt too wide) in paragraph at lines 600--601
+ \TU/TeXGyreTermes(0)/b/n/10 servicios| 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [32]
+ignored error: Infinite glue shrinkage found in box being split [33]
+Overfull \hbox (295.78873pt too wide) in alignment at lines 624--629
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (295.78873pt too wide) in alignment at lines 629--634
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.87221pt too wide) in paragraph at lines 636--636
+[]|\TU/TeXGyreTermes(0)/m/n/10 Plataforma/seguridad 
+ []
+
+
+Overfull \hbox (4.4122pt too wide) in paragraph at lines 637--637
+[]|\TU/TeXGyreTermes(0)/m/n/10 Seguridad/resultados 
+ []
+
+
+Overfull \hbox (7.35403pt too wide) in paragraph at lines 638--638
+[]|\TU/TeXGyreTermes(0)/m/n/10 LoRa/LoRaWAN|  
+ []
+
+
+Overfull \hbox (71.45438pt too wide) in paragraph at lines 640--640
+[]|[]|  
+ []
+
+
+Overfull \hbox (295.78873pt too wide) in alignment at lines 634--644
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [34] [35]
+[36] [37] [38] [39] [40] [41]
+Capítulo 3.
+[42
+
+] [43]
+Underfull \hbox (badness 1831) in paragraph at lines 831--831
+ [][]|\TU/TeXGyreTermes(0)/m/n/10.95 1. Análisis de
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 831--831
+ \TU/TeXGyreTermes(0)/m/n/10.95 requerimientos
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 834--834
+ [][]|\TU/TeXGyreTermes(0)/m/n/10.95 4. Integración
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 835--835
+ [][]|\TU/TeXGyreTermes(0)/m/n/10.95 5. Validación
+ []
+
+
+Overfull \hbox (23.78831pt too wide) in paragraph at lines 836--837
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Arquitectura de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 microservicios
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 cios desacoplados
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 desplegados de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 forma indepen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Decodificadores
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 de payload por
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 modelo de medi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Cobertura fun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Porcentaje de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 requerimientos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 funcionales satis-
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 canal de integra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Tiempo de res-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 consultas históri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Servidor de red
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Loriot (versión y
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 configuración fija
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 durante las prue-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Dispositivos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\TU/TeXGyreTermes(0)/m/n/12 Modelos Bove
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 B97VPW, BE-
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 COX, BECOY y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\TU/TeXGyreTermes(0)/m/n/12 Younio disponi-
+ []
+
+[44] [45] [46]
+ignored error: Infinite glue shrinkage found in box being split [47]
+Underfull \hbox (badness 1028) in paragraph at lines 938--938
+\TU/TeXGyreTermes(0)/m/n/12 API documentada con SpringDoc
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 938--938
+[]|\TU/TeXGyreTermes(0)/m/n/12 El sistema debe poder desplegar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 938--938
+[]|\TU/TeXGyreTermes(0)/m/n/12 Los endpoints de la API
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 938--938
+\TU/TeXGyreTermes(0)/m/n/12 deben seguir el patrón
+ []
+
+
+Overfull \hbox (1.3743pt too wide) in paragraph at lines 938--938
+\TU/lmtt/m/n/12 /m3verificaciones/api/v1/...| 
+ []
+
+[48] [49]
+Capítulo 4.
+
+Underfull \hbox (badness 1199) in paragraph at lines 985--986
+\TU/TeXGyreTermes(0)/m/n/10 empresa; cada empresa agrupa gate-
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 986--987
+\TU/TeXGyreTermes(0)/m/n/10 usuario; asignar rol (administrador,
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 988--989
+[]|\TU/TeXGyreTermes(0)/m/n/10 Crear un registro de gateway LoRa-
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [50
+
+]
+ignored error: Infinite glue shrinkage found in box being split [51] [52]
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1112
+ []|   []   |   []   |   []   |   []   |   [][] |   []   |   []   |   []   |   
+[]
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 1111--1112
+|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/b/n/12 Razón de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 trada ligero
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Evita que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 validacio-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 nes/negocio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 bloqueen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 el tráfico
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Ciclo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 ministrativos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 no afectan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 ingesta ni
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Catálogo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 con vali-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 daciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 específicas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Evita aco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 plar valida-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 ciones de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 hardware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 a identi-
+ []
+
+
+Overfull \hbox (1.48517pt too wide) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 dad/consumo| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Superficie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 sensible
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reduce el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 blast radius
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 ante fallos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Regla de
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Cambios de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 acceso no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 bloquean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 ingesta ni
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Perfil de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 I/O alto,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 escalado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 horizontal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 indepen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Picos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 uplinks no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 degradan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 servicios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Pre–cálculo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 y consultas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 intensivas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 distintas a
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Aisla costos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 de CPU/IO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 de analítica
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Evolución
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 de decodifi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 cadores por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\TU/TeXGyreTermes(0)/m/n/12 Cambios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 en protoco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 lo/decoder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 no fuerzan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\TU/TeXGyreTermes(0)/m/n/12 redeploy
+ []
+
+[53]
+Overfull \vbox (154.64938pt too high) has occurred while \output is active []
+
+
+[54]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <8> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 1149.
+ [55] [56] [57
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1309--1309
+[]|\TU/TeXGyreTermes(0)/m/n/12 Formulario centrado con campos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1309--1309
+\TU/TeXGyreTermes(0)/m/n/12 email/contraseña; logo institucional; botón
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 1309--1309
+[]|\TU/TeXGyreTermes(0)/m/n/12 Tabla PrimeNG paginada con columnas EUI,
+ []
+
+[58
+
+] [59]
+Overfull \hbox (50.6361pt too wide) in alignment at lines 1452--1457
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (50.6361pt too wide) in alignment at lines 1457--1462
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (50.6361pt too wide) in alignment at lines 1462--1464
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (50.6361pt too wide) in alignment at lines 1464--1485
+ [] [] [] [] 
+ []
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 1509--1510
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, devEUI, serialNumber,
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 1510--1511
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, nombre, RUC, dirección,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, nombre, email, pass-
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 1512--1513
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, userUniqueKey, compan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, devEUI, tipo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
+\TU/TeXGyreTermes(0)/m/n/10 (rx/tx/txd/gw), payload, timestamp,
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 1514--1515
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, devEUI, lecturaAcumula-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 1515--1516
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, devEUI, consumoDiario,
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 1517--1518
+[]|\TU/TeXGyreTermes(0)/m/n/10 uniqueKey, devEUI, consumoAnual,
+ []
+
+[61] [62] [63]
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 1586.
+
+
+Overfull \hbox (25.15201pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/b/n/12 Campo| 
+ []
+
+
+Overfull \hbox (23.34pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/m/n/12 Código
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (9.324pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 con-
+ []
+
+
+Overfull \hbox (4.668pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 trol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (4.656pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 tra-
+ []
+
+
+Overfull \hbox (2.664pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 ma| 
+ []
+
+
+Overfull \hbox (32.004pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/m/n/12 Longitud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (3.324pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 da-
+ []
+
+
+Overfull \hbox (2.004pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 tos| 
+ []
+
+
+Overfull \hbox (49.32pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/m/n/12 Identificador
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (3.324pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 da-
+ []
+
+
+Overfull \hbox (27.024pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/m/n/12 Número
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (1.992pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 se-
+ []
+
+
+Overfull \hbox (14.65201pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 cuen-
+ []
+
+
+Overfull \hbox (1.992pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 cia
+ []
+
+
+Overfull \hbox (2.664pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 del
+ []
+
+
+Overfull \hbox (12.66pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 men-
+ []
+
+
+Overfull \hbox (1.992pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 sa-
+ []
+
+
+Overfull \hbox (22.968pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/m/n/12 Unidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (3.576pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 vo-
+ []
+
+
+Overfull \hbox (1.332pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 lu-
+ []
+
+
+Overfull \hbox (8.664pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 men
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 /
+ []
+
+
+Overfull \hbox (6.348pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 fac-
+ []
+
+
+Overfull \hbox (1.332pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 de
+ []
+
+
+Overfull \hbox (1.992pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 es-
+ []
+
+
+Overfull \hbox (2.65201pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/m/n/12 ca-
+ []
+
+
+Overfull \hbox (28.656pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/b/n/12 Lectura
+ []
+
+
+Overfull \hbox (3.516pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 vo-
+ []
+
+
+Overfull \hbox (2.004pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 lu-
+ []
+
+
+Overfull \hbox (9.996pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 men
+ []
+
+
+Overfull \hbox (9.996pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 acu-
+ []
+
+
+Overfull \hbox (8.664pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 mu-
+ []
+
+
+Overfull \hbox (1.332pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 la-
+ []
+
+
+Overfull \hbox (0.672pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 do| 
+ []
+
+
+Overfull \hbox (38.292pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reservado| 
+ []
+
+
+Overfull \hbox (11.328pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/b/n/12 Byte
+ []
+
+
+Overfull \hbox (1.992pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 es-
+ []
+
+
+Overfull \hbox (2.112pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 ta-
+ []
+
+
+Overfull \hbox (0.672pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 do
+ []
+
+
+Overfull \hbox (8.496pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 ST1| 
+ []
+
+
+Overfull \hbox (11.328pt too wide) in paragraph at lines 1586--1586
+[]|\TU/TeXGyreTermes(0)/b/n/12 Byte
+ []
+
+
+Overfull \hbox (1.992pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 es-
+ []
+
+
+Overfull \hbox (2.112pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 ta-
+ []
+
+
+Overfull \hbox (0.672pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 do
+ []
+
+
+Overfull \hbox (8.496pt too wide) in paragraph at lines 1586--1586
+\TU/TeXGyreTermes(0)/b/n/12 ST2| 
+ []
+
+
+Overfull \hbox (90.03032pt too wide) in alignment at lines 1586--1586
+[][][][] 
+ []
+
+[64]
+Overfull \vbox (466.53969pt too high) has occurred while \output is active []
+
+
+[65]
+Underfull \hbox (badness 1062) in paragraph at lines 1605--1605
+[]|\TU/TeXGyreTermes(0)/m/n/12 Número de se-
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1605--1605
+\TU/TeXGyreTermes(0)/b/n/12 lumen acumu-
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 1605--1605
+[]|\TU/TeXGyreTermes(0)/b/n/12 Byte de alar-
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 1605--1605
+[]|\TU/TeXGyreTermes(0)/m/n/12 Lectura de vo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1605
+\TU/TeXGyreTermes(0)/m/n/12 lumen inverso
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 1620--1620
+[]|\TU/TeXGyreTermes(0)/b/n/12 Número de serie
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 1620--1620
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reservado / cam-
+ []
+
+[66] [67] [68]
+Underfull \hbox (badness 2635) in paragraph at lines 1721--1721
+\TU/TeXGyreTermes(0)/m/n/12 dad corta; almacenamiento de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1721
+[]|\TU/TeXGyreTermes(0)/m/n/12 Trazabilidad en logs con
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 1721--1721
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reglas ABAC/RBAC en end-
+ []
+
+[69] [70]
+Overfull \hbox (22.31435pt too wide) in paragraph at lines 1762--1762
+[]|\TU/TeXGyreTermes(0)/m/n/12 Tratamiento/Control| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+[]|\TU/TeXGyreTermes(0)/m/n/12 Secretos fuera
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 del repo; rota-
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 ción; variables
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 de entorno;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 revisión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+[]|\TU/TeXGyreTermes(0)/m/n/12 SBOM Cy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 cloneDX
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 + OWASP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 Dependency-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+[]|\TU/TeXGyreTermes(0)/m/n/12 TLS 1.3 con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 validación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 de cadena y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/it/12 pinning \TU/TeXGyreTermes(0)/m/n/12 orga-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 nizacional si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+[]|\TU/TeXGyreTermes(0)/m/n/12 Definir CSP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 restrictiva;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1762
+\TU/TeXGyreTermes(0)/m/n/12 revisión ZAP
+ []
+
+[71]
+Underfull \hbox (badness 1715) in paragraph at lines 1803--1803
+[]|\TU/TeXGyreTermes(0)/m/n/12 Servidor HTTP embebido (Tomcat),
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 1803--1803
+[]|\TU/TeXGyreTermes(0)/m/n/12 Persistencia ORM con Hibernate y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1803
+[]|\TU/TeXGyreTermes(0)/m/n/12 Endpoints de salud y métricas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1803
+[]|\TU/TeXGyreTermes(0)/m/n/12 Reducción de código boilerplate:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1803
+[]|\TU/TeXGyreTermes(0)/m/n/12 Anotaciones para serializa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1803
+\TU/TeXGyreTermes(0)/m/n/12 ción/deserialización JSON
+ []
+
+[72] [73]
+Overfull \hbox (122.74667pt too wide) in paragraph at lines 1881--1882
+ [][] 
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 1888--1889
+[]\TU/TeXGyreTermes(0)/m/n/10 Cada microservicio lee su configuración desde el 
+archivo
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 1888--1889
+\TU/lmtt/m/n/10 src/main/resources/application.properties\TU/TeXGyreTermes(0)/m
+/n/10 , que define valores por defecto para el entorno
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 1888--1889
+\TU/TeXGyreTermes(0)/m/n/10 local mediante la sintaxis \TU/lmtt/m/n/10 ${VAR:va
+lor_por_defecto}\TU/TeXGyreTermes(0)/m/n/10 . La Tabla []4.15[] describe las pr
+opiedades de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1891--1891
+[]\TU/TeXGyreTermes(0)/m/n/12 Tabla 4.15: []Propiedades de configuración por se
+rvicio (entorno local,
+ []
+
+
+Overfull \hbox (172.25432pt too wide) in paragraph at lines 1913--1913
+[]|\TU/lmtt/m/n/12 jdbc:postgresql://localhost:5432/m3verificaciones| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1913
+[]|\TU/lmtt/m/n/12 update \TU/TeXGyreTermes(0)/m/n/12 (esquema auto-
+ []
+
+
+Overfull \hbox (147.53432pt too wide) in paragraph at lines 1913--1913
+[]|\TU/lmtt/m/n/12 http://localhost:8082/m3verificaciones/api/v1| 
+ []
+
+
+Overfull \hbox (147.53432pt too wide) in paragraph at lines 1913--1913
+[]|\TU/lmtt/m/n/12 http://localhost:8085/m3verificaciones/api/v1| 
+ []
+
+
+Overfull \hbox (147.52232pt too wide) in paragraph at lines 1913--1913
+[]|\TU/lmtt/m/n/12 http://localhost:8086/m3verificaciones/api/v1| 
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 1913--1913
+[]|\TU/TeXGyreTermes(0)/m/n/12 URLs base apuntando a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1913
+\TU/lmtt/m/n/12 http://localhost:808x
+ []
+
+[75] [76]
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+\TU/TeXGyreTermes(0)/m/n/10 registrado; alarmas
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 1964--1964
+\TU/TeXGyreTermes(0)/m/n/10 máticamente al De-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1967
+[]|\TU/TeXGyreTermes(0)/m/n/10 Diferencia correcta
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 1968--1968
+[]|\TU/TeXGyreTermes(0)/m/n/10 Actualización en cascada
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 1968--1968
+[]|\TU/TeXGyreTermes(0)/m/n/10 Totales actualizados
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 1969--1969
+[]|\TU/TeXGyreTermes(0)/m/n/10 Archivo descargable
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 1970--1970
+[]|\TU/TeXGyreTermes(0)/m/n/10 Registro de medidor con
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 1970--1970
+[]|\TU/TeXGyreTermes(0)/m/n/10 Medidor visible en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]|\TU/TeXGyreTermes(0)/m/n/10 Medidores creados
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1973
+[]|\TU/TeXGyreTermes(0)/m/n/10 Alerta almacena-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1973
+\TU/TeXGyreTermes(0)/m/n/10 da con timestamp
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 1974--1974
+[]|\TU/TeXGyreTermes(0)/m/n/10 Envío de downlink para
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1974--1974
+\TU/TeXGyreTermes(0)/m/n/10 actualización de
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 1974--1974
+\TU/TeXGyreTermes(0)/m/n/10 estado en siguiente
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1975--1975
+[]|\TU/TeXGyreTermes(0)/m/n/10 Token JWT emitido
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1976
+[]|\TU/TeXGyreTermes(0)/m/n/10 Respuesta 401
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [77] [78]
+Overfull \hbox (1.1518pt too wide) in paragraph at lines 2000--2000
+ []|\TU/TeXGyreTermes(0)/b/n/10 RNF.02| 
+ []
+
+
+Overfull \hbox (1.1518pt too wide) in paragraph at lines 2005--2005
+ []|\TU/TeXGyreTermes(0)/b/n/10 RNF.02| 
+ []
+
+
+Overfull \hbox (1.48772pt too wide) in paragraph at lines 2010--2010
+ []|\TU/TeXGyreTermes(0)/m/n/10 POST| 
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 2010--2011
+[]|\TU/TeXGyreTermes(0)/m/n/10 BCrypt hash + generación
+ []
+
+
+Overfull \hbox (22.68898pt too wide) in paragraph at lines 2017--2017
+[]|\TU/lmtt/m/n/10 /consumption-day/by-devEui| 
+ []
+
+
+Overfull \hbox (22.68898pt too wide) in paragraph at lines 2019--2019
+[]|\TU/lmtt/m/n/10 /messages-full-join/latest| 
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 2019--2020
+\TU/TeXGyreTermes(0)/m/n/10 ducción debe limitarse por
+ []
+
+
+Overfull \hbox (54.18898pt too wide) in paragraph at lines 2020--2020
+[]|\TU/lmtt/m/n/10 /messages-full-join/alerts/{key}| 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [79]
+Underfull \hbox (badness 7851) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /consumption
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /brand
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /meter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /auth/login
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /gateway
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /company
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
+ [][]\TU/lmtt/m/n/8 /auth/me
+ []
+
+
+Overfull \hbox (87.16806pt too wide) in paragraph at lines 2109--2110
+ [][] 
+ []
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 2132--2132
+[]|\TU/TeXGyreTermes(0)/m/n/10 Correspondencia entre
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 2132--2132
+[]|\TU/TeXGyreTermes(0)/m/n/10 Los términos utilizados (medidor, gateway,
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 2133--2133
+[]|\TU/TeXGyreTermes(0)/m/n/10 Control y libertad del
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 2134--2134
+[]|\TU/TeXGyreTermes(0)/m/n/10 Consistencia y estánda-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2136--2136
+[]|\TU/TeXGyreTermes(0)/m/n/10 Reconocimiento sobre
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 2139--2139
+\TU/TeXGyreTermes(0)/m/n/10 flicto, 404 No encontrado) se presentan al
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [81] [82]
+[83]
+Overfull \hbox (33.70534pt too wide) in alignment at lines 2168--2173
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (33.70534pt too wide) in alignment at lines 2173--2178
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (33.70534pt too wide) in alignment at lines 2178--2180
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 2181--2181
+[]|\TU/TeXGyreTermes(0)/m/n/10 Completitud: cobertura de
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 2182--2182
+[]|\TU/TeXGyreTermes(0)/m/n/10 Comportamiento temporal:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2183--2183
+[]|\TU/TeXGyreTermes(0)/m/n/10 9/9 microservicios expo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2183--2183
+\TU/TeXGyreTermes(0)/m/n/10 nen Swagger/OpenAPI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2184--2184
+[]|\TU/TeXGyreTermes(0)/m/n/10 9/10 heurísticas cumplidas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2185--2185
+[]|\TU/TeXGyreTermes(0)/m/n/10 Reconexión TLS $\OMS/cmsy/m/n/10 ^^T$ \TU/TeXGyr
+eTermes(0)/m/n/10 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2185--2185
+\TU/TeXGyreTermes(0)/m/n/10 s (CP.05) y consistencia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2185--2185
+\TU/TeXGyreTermes(0)/m/n/10 transaccional verificada —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2186--2186
+[]|\TU/TeXGyreTermes(0)/m/n/10 ZAP: Altas=0, Medias=2
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 2186--2186
+\TU/TeXGyreTermes(0)/m/n/10 críticos=0 tras mitigaciones
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 2186--2186
+\TU/TeXGyreTermes(0)/m/n/10 (tokens ejemplo redactados;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2186--2186
+\TU/TeXGyreTermes(0)/m/n/10 contenedores no-root) —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2187--2187
+\TU/TeXGyreTermes(0)/m/n/10 SAST sin errores críticos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2188--2188
+[]|\TU/TeXGyreTermes(0)/m/n/10 Adaptabilidad/instalabilidad
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 2189--2189
+[]|\TU/TeXGyreTermes(0)/m/n/10 Confidencialidad e integri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2190--2190
+[]|\TU/TeXGyreTermes(0)/m/n/10 Modularidad: desacopla-
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 2191--2191
+[]|\TU/TeXGyreTermes(0)/m/n/10 9/9 microservicios dockeri-
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 2191--2191
+\TU/TeXGyreTermes(0)/m/n/10 zados; desplegados en Rail-
+ []
+
+
+Overfull \hbox (33.70534pt too wide) in alignment at lines 2180--2192
+ [] [] [] [] 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [84] [85]
+[86]
+Capítulo 5.
+[87
+
+]
+Underfull \hbox (badness 1968) in paragraph at lines 2287--2287
+\TU/TeXGyreTermes(0)/m/n/10 croservicios desacoplados con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2288
+[]|\TU/TeXGyreTermes(0)/m/n/10 Desarrollar el prototipo con
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 2288--2288
+\TU/TeXGyreTermes(0)/m/n/10 Angular, Spring Boot y Post-
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 2288--2288
+[]|\TU/TeXGyreTermes(0)/m/n/10 Todos los módulos (decodificación,
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 2290--2290
+[]|\TU/TeXGyreTermes(0)/m/n/10 Documentar el desarrollo con
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 2290--2290
+\TU/TeXGyreTermes(0)/m/n/10 diagramas, casos de prueba y
+ []
+
+[88]
+Underfull \hbox (badness 2452) in paragraph at lines 2304--2305
+|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
+  |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 2304--2305
+|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
+  |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2306--2307
+[]|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 2306--2307
+|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
+  |   []   |   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2307--2308
+[]|   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+[89]
+Underfull \hbox (badness 4927) in paragraph at lines 2324--2325
+[]\TU/TeXGyreTermes(0)/m/n/10 Ismail, S., Dawoud, D. W., Ismail, N., Marsh, R.,
+ & Alshami, A. S. (2022). IoT-based
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 2324--2325
+\TU/TeXGyreTermes(0)/m/n/10 water management systems: Survey and future researc
+h direction. IEEE Access, 10, 35942–35952.
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 2332--2333
+[]\TU/TeXGyreTermes(0)/m/n/10 Adelantado, F., Vilajosana, X., Tuset-Peiro, P., 
+Martinez, B., Melia-Segui, J., & Watteyne,
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 2332--2333
+\TU/TeXGyreTermes(0)/m/n/10 T. (2017). Understanding the limits of LoRaWAN. IEE
+E Communications Magazine, 55(9), 34–40.
+ []
+
+[90
+
+]
+Underfull \hbox (badness 2318) in paragraph at lines 2342--2343
+[]\TU/TeXGyreTermes(0)/m/n/10 Semtech Corporation. (2020). \TU/TeXGyreTermes(0)
+/m/it/10 LoRa and LoRaWAN: A technical overview \TU/TeXGyreTermes(0)/m/n/10 (Ap
+plication Note
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2352--2353
+[]\TU/TeXGyreTermes(0)/m/n/10 Naik, N. (2017). Choice of effective messaging pr
+otocols for IoT systems: MQTT,
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 2352--2353
+\TU/TeXGyreTermes(0)/m/n/10 CoAP, AMQP and HTTP. 2017 IEEE International System
+s Engineering Symposium (ISSE), 1–7.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2370--2371
+[]\TU/TeXGyreTermes(0)/m/n/10 PrimeFaces. (2024). \TU/TeXGyreTermes(0)/m/it/10 
+PrimeNG: Angular UI component library \TU/TeXGyreTermes(0)/m/n/10 (v17). PrimeF
+aces.org.
+ []
+
+[91]
+Apéndice A.
+[92
+
+] [93]
+Apéndice B.
+[94
+
+] [95] [96]
+Apéndice C.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2584--2585
+[]\TU/TeXGyreTermes(0)/m/n/10 Si las credenciales locales difieren, establecer 
+las variables de entorno
+ []
+
+[97
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2626--2627
+[]\TU/TeXGyreTermes(0)/m/n/10 La aplicación queda disponible en \TU/lmtt/m/n/10
+ http://localhost:4200\TU/TeXGyreTermes(0)/m/n/10 . Los archivos
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 2626--2627
+\TU/lmtt/m/n/10 src/environments/environment.ts \TU/TeXGyreTermes(0)/m/n/10 ya 
+apuntan a \TU/lmtt/m/n/10 http://localhost:808x \TU/TeXGyreTermes(0)/m/n/10 par
+a cada microservi-
+ []
+
+[98]
+Apéndice D.
+[99
+
+]
+Underfull \hbox (badness 2237) in paragraph at lines 2660--2661
+[]\TU/TeXGyreTermes(0)/b/n/10 Práctica\TU/TeXGyreTermes(0)/m/n/10 : Configurar 
+cabeceras HTTP en el gateway/backend: \TU/lmtt/m/n/10 Content-Security-Policy\T
+U/TeXGyreTermes(0)/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2660--2661
+\TU/lmtt/m/n/10 X-Content-Type-Options=nosniff\TU/TeXGyreTermes(0)/m/n/10 , \TU
+/lmtt/m/n/10 X-Frame-Options=DENY\TU/TeXGyreTermes(0)/m/n/10 ,
+ []
+
+[100] (main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 40026 strings out of 402987
+ 956279 string characters out of 5452871
+ 1611271 words of memory out of 5000000
+ 68135 multiletter control sequences out of 15000+600000
+ 636391 words of font info for 113 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 103i,17n,108p,1200b,2381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (101 pages).

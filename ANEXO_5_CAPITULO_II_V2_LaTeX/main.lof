@@ -1,0 +1,32 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Principales causas de la ausencia de plataforma centralizada de gestión en Representaciones Hidrocentro Cía. Ltda.}}{21}{figure.1.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagrama de flujo PRISMA del proceso de selección de estudios}}{31}{figure.2.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Cronograma de desarrollo del sistema por etapas iterativo-incrementales}}{44}{figure.3.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Diagrama de casos de uso del sistema Athenea con dos actores y catorce funcionalidades principales.}}{52}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama de componentes de la plataforma Athenea organizado en cuatro capas: dispositivos, adaptación, microservicios y presentación.}}{53}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagrama de clases principal del adaptador LoRaWAN (dominio superior) y del microservicio de consumo (dominio inferior), con sus relaciones de asociación y dependencia.}}{55}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Diagrama entidad-relación de la plataforma Athenea. Las flechas con notación 1--N indican relaciones uno a muchos. Las entidades de consumo agregado (ConsumptionPerDay, Month, Year) se calculan en cascada desde Consumption.}}{56}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Diagrama de secuencia del flujo de procesamiento de un uplink LoRaWAN: desde la transmisión del medidor hasta la persistencia en PostgreSQL con pre-agregación de consumo.}}{57}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Wireframes esquemáticos de las cuatro pantallas principales: inicio de sesión (sup. izq.), dashboard (sup. der.), mapa de medidores (inf. izq.) y consulta de consumo histórico (inf. der.).}}{59}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Arquitectura de alto nivel de la plataforma: dispositivos LoRaWAN, adaptador de integración, ocho microservicios Spring Boot y frontend Angular.}}{60}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Distribución de modelos de medidores de agua potable registrados en el sistema --- período de validación}}{63}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Pantalla de inicio de sesión del sistema Athenea --- autenticación con credenciales de operador}}{67}{figure.4.9}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Dashboard principal --- resumen de estado de medidores y alertas activas}}{68}{figure.4.10}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Vista de mapa interactivo --- ubicación geográfica de medidores de agua potable registrados}}{68}{figure.4.11}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Vista de detalle de consumo histórico de un medidor --- gráfico de barras por granularidad temporal}}{68}{figure.4.12}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Diagrama de despliegue local: ocho procesos JVM (puertos 8080--8087), base de datos PostgreSQL en puerto 5432 y frontend Angular en puerto 4200, todos ejecutándose en la misma máquina de desarrollo.}}{75}{figure.4.13}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Swagger UI del microservicio Meters-Backend --- documentación interactiva de endpoints REST generada automáticamente por SpringDoc OpenAPI}}{76}{figure.4.14}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Panel de Railway.app --- servicios desplegados en entorno de producción}}{77}{figure.4.15}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Medición de rendimiento del endpoint \texttt {/consumption-day/by-devEui} --- respuesta en 187 ms con Postman}}{80}{figure.4.16}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Tiempo de respuesta promedio de endpoints REST vs.\ umbral RNF.02}}{81}{figure.4.17}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Consola Loriot durante sesión de prueba de integración --- uplinks de medidores de agua potable BOVE y Younio procesados en tiempo real}}{83}{figure.4.18}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Radar de evaluación ISO/IEC 25010 --- niveles de cumplimiento por característica (escala 0--3)}}{85}{figure.4.19}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

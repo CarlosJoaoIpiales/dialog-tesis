@@ -1,0 +1,41 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Indicadores operativos actuales y metas (línea base)}}{19}{table.1.1}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces Resumen de pruebas de seguridad (SAST/DAST)}}{22}{table.1.2}%
+\contentsline {table}{\numberline {1.3}{\ignorespaces Indicadores económicos — valores reportados en la literatura y campos a confirmar}}{26}{table.1.3}%
+\contentsline {table}{\numberline {1.4}{\ignorespaces Delimitación del alcance del proyecto}}{28}{table.1.4}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Criterios de inclusión y exclusión de la revisión sistemática de la literatura}}{30}{table.2.1}%
+\contentsline {table}{\numberline {2.2}{Análisis comparativo de trabajos relacionados}}{32}{table.2.2}%
+\contentsline {table}{\numberline {2.3}{Comparación detallada de trabajos relacionados}}{34}{table.2.3}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Variables de investigación del estudio}}{45}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{Requerimientos funcionales del sistema}}{47}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Requerimientos no funcionales del sistema}}{48}{table.3.3}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Actores del sistema Athenea}}{50}{table.4.1}%
+\contentsline {table}{\numberline {4.2}{Catálogo de casos de uso del sistema}}{50}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Servicios, responsabilidades y razones de separación}}{54}{table.4.3}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Pantallas principales de la interfaz de usuario}}{58}{table.4.4}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Inventario de microservicios de la plataforma}}{60}{table.4.5}%
+\contentsline {table}{\numberline {4.6}{Endpoints REST representativos de la plataforma}}{61}{table.4.6}%
+\contentsline {table}{\numberline {4.7}{Principales entidades del modelo de datos relacional}}{62}{table.4.7}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Estructura del payload de medidores Bove (B97VPW, BECOX, BECOY) --- 13 bytes}}{65}{table.4.8}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Estructura del payload de medidores Younio --- DataKind 0x00 (lectura estándar, 14 bytes)}}{66}{table.4.9}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Estructura del mensaje de número de serie Bove --- 12 bytes (24 caracteres hex)}}{66}{table.4.10}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Resumen STRIDE y controles}}{70}{table.4.11}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Matriz de riesgos — priorización y tratamiento}}{71}{table.4.12}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Dependencias principales del backend (Spring Boot, pom.xml)}}{73}{table.4.13}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces Dependencias principales del frontend (Angular 17, package.json)}}{74}{table.4.14}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces Propiedades de configuración por servicio (entorno local, \texttt {application.properties})}}{76}{table.4.15}%
+\contentsline {table}{\numberline {4.16}{Resultados de casos de prueba funcionales}}{77}{table.4.16}%
+\contentsline {table}{\numberline {4.17}{Resultados de pruebas de rendimiento de endpoints REST (localhost, carga de un operador)}}{79}{table.4.17}%
+\contentsline {table}{\numberline {4.18}{Evaluación heurística de usabilidad según los principios de Nielsen}}{81}{table.4.18}%
+\contentsline {table}{\numberline {4.19}{Evaluación del sistema según ISO/IEC 25010}}{84}{table.4.19}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{Matriz de trazabilidad: objetivos específicos, preguntas de investigación y conclusiones}}{88}{table.5.1}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {C.1}{\ignorespaces Orden de inicio de los microservicios en entorno local}}{98}{table.Alph3.1}%
+\addvspace {10\p@ }

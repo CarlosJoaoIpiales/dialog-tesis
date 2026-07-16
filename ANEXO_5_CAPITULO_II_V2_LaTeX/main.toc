@@ -1,0 +1,99 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Dedicatoria}{5}{chapter*.1}%
+\contentsline {chapter}{Agradecimiento}{6}{chapter*.2}%
+\contentsline {chapter}{Resumen}{14}{chapter*.6}%
+\contentsline {chapter}{Abstract}{15}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Introducción}{16}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Antecedentes}{17}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Planteamiento del problema}{17}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Análisis de causas}{20}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Pruebas de seguridad}{21}{subsection.1.3.1}%
+\contentsline {paragraph}{\uline {Medidas aplicadas.}}{23}{section*.8}%
+\contentsline {paragraph}{\uline {Plan de cierre (post-entrega).}}{23}{section*.9}%
+\contentsline {section}{\numberline {1.4}Formulación del problema o pregunta de investigación }{23}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Objetivos }{23}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Justificación}{24}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Alcance}{27}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Estado del arte}{29}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Revisión sistemática de la literatura}{29}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Trabajos relacionados}{31}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Preguntas de investigación}{35}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Marco teórico}{36}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Internet de las Cosas aplicado a la gestión hídrica}{36}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Protocolo LoRaWAN y arquitectura de red}{36}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Canal TLS sobre TCP como mecanismo de integración con el servidor de red}{36}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Decodificación de payloads de medidores LoRaWAN}{37}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Arquitectura de microservicios con Spring Boot}{37}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Agregación temporal de datos de consumo}{38}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.7}Desarrollo de interfaces web con Angular y PrimeNG}{38}{subsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.4.8}Seguridad en aplicaciones web IoT: autenticación y cifrado}{39}{subsection.2.4.8}%
+\contentsline {subsection}{\numberline {2.4.9}Referenciales y estándares de seguridad aplicables}{39}{subsection.2.4.9}%
+\contentsline {paragraph}{OWASP Top 10 (aplicaciones web).}{39}{section*.14}%
+\contentsline {paragraph}{Zero Trust.}{39}{section*.15}%
+\contentsline {paragraph}{OAuth 2.0.}{39}{section*.16}%
+\contentsline {paragraph}{OpenID Connect (OIDC).}{39}{section*.17}%
+\contentsline {paragraph}{JWT (profundización).}{40}{section*.18}%
+\contentsline {paragraph}{ISO/IEC 27001 e ISO/IEC 27002.}{40}{section*.19}%
+\contentsline {paragraph}{NIST Cybersecurity Framework (CSF).}{40}{section*.20}%
+\contentsline {section}{\numberline {2.5}Marco conceptual}{40}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Metodología}{42}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Enfoque de investigación}{42}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Tipo y diseño de investigación}{42}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Metodología de desarrollo de software}{43}{section.3.3}%
+\contentsline {paragraph}{¿Por qué iterativo-incremental?}{43}{section*.21}%
+\contentsline {paragraph}{¿Por qué Scrum?}{43}{section*.22}%
+\contentsline {paragraph}{¿Por qué no XP (como marco principal)?}{43}{section*.23}%
+\contentsline {paragraph}{¿Por qué no (implantar completo) DevOps en esta fase?}{43}{section*.24}%
+\contentsline {paragraph}{¿Por qué microservicios?}{43}{section*.25}%
+\contentsline {subsection}{\numberline {3.3.1}Etapas del proceso de desarrollo}{44}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Cronograma de desarrollo}{44}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Población y muestra}{46}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Técnica e instrumento}{46}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Requerimientos del sistema}{46}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Validación y confiabilidad del instrumento}{49}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Análisis y discusión de los resultados}{50}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Casos de uso del sistema}{50}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Arquitectura general del sistema}{52}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Diagrama de componentes}{52}{subsection.4.2.1}%
+\contentsline {paragraph}{\uline {Justificación de la descomposición en ocho servicios.}}{53}{section*.30}%
+\contentsline {paragraph}{\uline {¿Por qué esta separación y no un monolito?}}{53}{section*.31}%
+\contentsline {paragraph}{\uline {Riesgos mitigados con la descomposición.}}{53}{section*.32}%
+\contentsline {subsection}{\numberline {4.2.2}Diagrama de clases}{55}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Diagrama entidad-relación}{55}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Diagrama de secuencia}{56}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Diseño de interfaz de usuario}{58}{subsection.4.2.5}%
+\contentsline {section}{\numberline {4.3}Implementación}{59}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Implementación de la arquitectura de microservicios}{59}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Integración con el servidor de red LoRaWAN}{62}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Decodificación de payloads y procesamiento de mensajes}{63}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Agregación temporal de datos de consumo}{66}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Visualización y gestión desde el frontend}{67}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Seguridad del sistema}{68}{subsection.4.3.6}%
+\contentsline {subsubsection}{\numberline {4.3.6.1}Modelo de amenazas}{69}{subsubsection.4.3.6.1}%
+\contentsline {subsubsection}{\numberline {4.3.6.2}Análisis STRIDE}{69}{subsubsection.4.3.6.2}%
+\contentsline {subsubsection}{\numberline {4.3.6.3}Riesgos}{70}{subsubsection.4.3.6.3}%
+\contentsline {subsubsection}{\numberline {4.3.6.4}Ataques mitigados}{70}{subsubsection.4.3.6.4}%
+\contentsline {subsubsection}{\numberline {4.3.6.5}Matriz de riesgos}{71}{subsubsection.4.3.6.5}%
+\contentsline {subsubsection}{\numberline {4.3.6.6}OWASP}{72}{subsubsection.4.3.6.6}%
+\contentsline {section}{\numberline {4.4}Despliegue}{72}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Dependencias y librerías}{72}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Diagrama de despliegue}{74}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Configuración de entorno}{75}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Pruebas y validación}{77}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Estrategia de pruebas}{77}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Pruebas funcionales}{77}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Pruebas de integración}{79}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Pruebas de rendimiento}{79}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}Pruebas de usabilidad}{81}{subsection.4.5.5}%
+\contentsline {subsection}{\numberline {4.5.6}Análisis de resultados}{83}{subsection.4.5.6}%
+\contentsline {section}{\numberline {4.6}Evaluación de calidad del software según ISO/IEC 25010}{83}{section.4.6}%
+\contentsline {paragraph}{\uline {Metodología y trazabilidad.}}{83}{section*.34}%
+\contentsline {section}{\numberline {4.7}Discusión}{85}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Conclusiones y recomendaciones}{87}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusiones}{87}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recomendaciones }{88}{section.5.2}%
+\contentsline {chapter}{Referencias}{90}{chapter*.37}%
+\contentsline {chapter}{\numberline {A}Guía de entrevista semiestructurada}{92}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Fragmentos de código clave}{94}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {C}Guía de despliegue local del prototipo}{97}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {D}Políticas de Seguridad Operativa (resumen)}{99}{appendix.Alph4}%
