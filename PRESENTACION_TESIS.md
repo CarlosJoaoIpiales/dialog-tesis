@@ -15,29 +15,29 @@ Guion de defensa para **2 presentadores (P1 y P2)**. Duración objetivo: **15 mi
 
 **Qué decir — P1:** "Buenos días. Somos [nombre] y [nombre]. Presentamos nuestra tesis: *Athenea — plataforma IoT de microservicios para la integración y monitoreo de medidores de agua*. Nos acompaña nuestro tutor [nombre]."
 
-**Qué decir — P2:** "La presentación durará unos 15 minutos e incluye una demostración en vivo de la aplicación. Al final quedamos abiertos a sus preguntas."
+**Qué decir — P2:** "La presentación incluye una demostración en vivo de la aplicación. Al final quedamos abiertos a sus preguntas."
 
 ---
 
 ## Diapositiva 2 — Antecedentes · ⏱ 1:15
-**En la diapositiva:** 3–4 bullets: la medición tradicional de agua es manual; auge del IoT y LoRaWAN/LTE para telemetría; empresas de agua necesitan datos remotos; trabajo previo de M3 Verificaciones. Una imagen: medidor tradicional vs. medidor IoT.
+**En la diapositiva:** 3–4 bullets: la medición tradicional de agua es manual; auge del IoT y LoRaWAN para telemetría; empresas de agua necesitan datos remotos; trabajo previo de M3 Verificaciones. Una imagen: medidor tradicional vs. medidor IoT.
 
 **Qué decir — P1:** "El contexto: la lectura de medidores de agua se ha hecho históricamente de forma manual, medidor por medidor. Un operario recorre cada domicilio, anota la lectura y la carga después. Es costoso, lento y propenso a errores de transcripción."
 
-**Qué decir — P1:** "En paralelo, el Internet de las Cosas y los protocolos de bajo consumo como LoRaWAN y LTE permiten que un medidor reporte su lectura de forma remota, con años de autonomía de batería. Esa combinación abre la puerta a la telemetría de agua a gran escala."
+**Qué decir — P1:** "En paralelo, el Internet de las Cosas y protocolos de bajo consumo como LoRaWAN permiten que un medidor reporte su lectura de forma remota, con años de autonomía de batería. Esa tecnología abre la puerta a la telemetría de agua a gran escala."
 
 **Qué decir — P2:** "Nuestra tesis parte de esa oportunidad, en el marco de la empresa M3 Verificaciones, que ya trabajaba con medición y verificación de medidores y necesitaba dar el salto a una plataforma digital propia."
 
 ---
 
 ## Diapositiva 3 — Problemática · ⏱ 1:15
-**En la diapositiva:** El problema en una frase grande + 3 dolores: (1) sin plataforma centralizada para integrar medidores multi-protocolo; (2) datos dispersos, sin consumo en tiempo real ni alertas; (3) soluciones comerciales caras y cerradas. Opcional: diagrama "antes" caótico.
+**En la diapositiva:** El problema en una frase grande + 3 dolores: (1) sin plataforma centralizada para integrar medidores LoRaWAN de distintos fabricantes; (2) datos dispersos, sin consumo en tiempo real ni alertas; (3) soluciones comerciales caras y cerradas. Opcional: diagrama "antes" caótico.
 
 **Qué decir — P2:** "El problema concreto: no existía una plataforma propia que integrara medidores de distintos fabricantes y protocolos en un solo lugar. Cada dispositivo hablaba su propio idioma y sus datos quedaban aislados."
 
 **Qué decir — P2:** "Esto genera tres dolores. Primero, datos dispersos y sin analítica en tiempo real. Segundo, imposibilidad de detectar alarmas como fugas o batería baja a tiempo. Y tercero, dependencia de soluciones comerciales costosas y cerradas, que no se adaptan al negocio."
 
-**Qué decir — P1:** "La pregunta que guía toda la tesis es entonces: *¿cómo diseñar una plataforma escalable que integre estos medidores multi-protocolo y entregue su información de forma útil y en tiempo real?*"
+**Qué decir — P1:** "La pregunta que guía toda la tesis es entonces: *¿cómo diseñar una plataforma escalable que integre estos medidores LoRaWAN y entregue su información de forma útil y en tiempo real?*"
 
 ---
 
@@ -45,11 +45,11 @@ Guion de defensa para **2 presentadores (P1 y P2)**. Duración objetivo: **15 mi
 **En la diapositiva:** **Objetivo general** (1 frase) + **Objetivos específicos** (3–4 bullets).
 
 - General: *Desarrollar una plataforma web de microservicios para registrar, integrar y monitorear medidores IoT de agua.* `[ajustar]`
-- Específicos: `[ajustar]` (1) Diseñar una arquitectura de microservicios; (2) Implementar adaptadores para LoRaWAN y LTE; (3) Construir un frontend para gestión de empresas, usuarios y medidores; (4) Visualizar consumos y alertas en tiempo real.
+- Específicos: `[ajustar]` (1) Diseñar una arquitectura de microservicios; (2) Implementar el adaptador para LoRaWAN; (3) Construir un frontend para gestión de empresas, usuarios y medidores; (4) Visualizar consumos y alertas en tiempo real.
 
 **Qué decir — P1:** "Nuestro objetivo general fue *desarrollar una plataforma web de microservicios para registrar, integrar y monitorear medidores IoT de agua*."
 
-**Qué decir — P2:** "Y lo desglosamos en cuatro objetivos específicos. Uno: diseñar una arquitectura de microservicios escalable. Dos: implementar los adaptadores de protocolo LoRaWAN y LTE. Tres: construir el frontend de gestión de empresas, usuarios y medidores. Y cuatro: visualizar consumos y alarmas en tiempo real."
+**Qué decir — P2:** "Y lo desglosamos en cuatro objetivos específicos. Uno: diseñar una arquitectura de microservicios escalable. Dos: implementar el adaptador de protocolo LoRaWAN. Tres: construir el frontend de gestión de empresas, usuarios y medidores. Y cuatro: visualizar consumos y alarmas en tiempo real."
 
 **Qué decir — P1:** "Cada conclusión que veremos al final responde uno a uno a estos objetivos."
 
@@ -65,11 +65,11 @@ Guion de defensa para **2 presentadores (P1 y P2)**. Duración objetivo: **15 mi
 ---
 
 ## Diapositiva 6 — Desarrollo (Arquitectura) · ⏱ 1:45
-**En la diapositiva:** **Diagrama de arquitectura de microservicios.** Frontend Angular a la izquierda; en el centro los servicios: user, company, userCompany, gateway, meters, consumption, messages; abajo los adaptadores lorawan y lte; a la derecha PostgreSQL. Flechas de flujo de un mensaje.
+**En la diapositiva:** **Diagrama de arquitectura de microservicios.** Frontend Angular a la izquierda; en el centro los servicios: user, company, userCompany, gateway, meters, consumption, messages; abajo el adaptador lorawan; a la derecha PostgreSQL. Flechas de flujo de un mensaje.
 
 **Qué decir — P1:** "Esta es la arquitectura, el corazón técnico de la tesis. El frontend Angular consume nueve microservicios independientes: gestión de usuarios, empresas, relaciones usuario-empresa, gateways, medidores, consumos y mensajes. Cada uno tiene su propia responsabilidad y su propia base de datos lógica."
 
-**Qué decir — P2:** "A esos nueve se suman dos adaptadores de protocolo, sin base de datos, que actúan como puentes: uno escucha LoRaWAN por WebSocket contra la nube del operador, y otro escucha LTE por UDP directamente desde los dispositivos."
+**Qué decir — P2:** "A esos nueve se suma un adaptador de protocolo, sin base de datos, que actúa como puente: escucha LoRaWAN por WebSocket contra la nube del operador y traduce lo que llega del dispositivo."
 
 **Qué decir — P2:** "Cuando llega un mensaje del medidor, el adaptador lo decodifica y lo distribuye a los servicios de mensajes, medidores y consumos. Todo persiste en PostgreSQL. La ventaja: si mañana aparece un protocolo nuevo, sumamos un adaptador sin tocar el resto del sistema."
 
@@ -97,13 +97,13 @@ Guion de defensa para **2 presentadores (P1 y P2)**. Duración objetivo: **15 mi
 
 ## Diapositiva 9 — Resultados (Logros medibles) · ⏱ 1:15
 **En la diapositiva:** 4–5 métricas/logros en tarjetas:
-- Plataforma funcional con 9 microservicios + 2 adaptadores desplegados.
-- Registro de medidores multi-protocolo (LoRaWAN, LTE, GPRS, NB-IoT, 4G).
+- Plataforma funcional con 9 microservicios + adaptador LoRaWAN desplegados.
+- Registro e integración de medidores LoRaWAN de distintos fabricantes (BOVE, YOUNIO).
 - Ingesta y decodificación de mensajes en tiempo real.
 - Consumos agregados (hora/día/mes/año) y alarmas (fuga, batería, etc.).
 - `[ajustar: nº de medidores probados, nº de mensajes procesados, tiempo de respuesta]`.
 
-**Qué decir — P1:** "Como resultados concretos: logramos una plataforma funcional con nueve microservicios y dos adaptadores desplegados en producción; el registro de medidores en cinco protocolos; y la ingesta y decodificación de mensajes en tiempo real, como acaban de ver."
+**Qué decir — P1:** "Como resultados concretos: logramos una plataforma funcional con nueve microservicios y el adaptador LoRaWAN desplegados en producción; el registro e integración de medidores LoRaWAN de distintos fabricantes; y la ingesta y decodificación de mensajes en tiempo real, como acaban de ver."
 
 **Qué decir — P2:** "Además, la plataforma agrega el consumo por hora, día, mes y año, y detecta alarmas como fugas o batería baja. En nuestras pruebas procesamos `[ajustar]` mensajes provenientes de `[ajustar]` medidores, con un tiempo de respuesta de `[ajustar]`."
 
@@ -121,7 +121,7 @@ Guion de defensa para **2 presentadores (P1 y P2)**. Duración objetivo: **15 mi
 ## Diapositiva 11 — Conclusiones · ⏱ 1:00
 **En la diapositiva:** 3–4 conclusiones alineadas 1:1 con los objetivos + 1 línea de trabajo futuro.
 
-**Qué decir — P2:** "Concluimos que cumplimos los cuatro objetivos: diseñamos e implementamos una plataforma de microservicios que integra medidores multi-protocolo y entrega su información de forma útil, con consumo y alarmas en tiempo real."
+**Qué decir — P2:** "Concluimos que cumplimos los cuatro objetivos: diseñamos e implementamos una plataforma de microservicios que integra medidores LoRaWAN y entrega su información de forma útil, con consumo y alarmas en tiempo real."
 
 **Qué decir — P1:** "Como trabajo futuro proponemos `[ajustar]`: por ejemplo, analítica predictiva de fugas, app móvil y soporte de más fabricantes. Con esto demostramos que una solución propia, escalable y de bajo costo es viable. Muchas gracias."
 
